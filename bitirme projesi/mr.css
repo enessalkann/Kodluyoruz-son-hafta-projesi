@@ -1,0 +1,57 @@
+body { 
+    background-color: #2E4F4F;
+}
+/*      h tags start        */
+h1{
+    background-color: #203239;
+    color: #2E4F4F;
+    font-size: 40px;
+    text-align: center;
+}
+h2{
+    font-size: 35px;
+}
+h3{
+    color:#F2DEBA;
+    font-size: 30px;
+}
+h4{
+    color: #93BFCF;
+    font-size: 25px;
+}
+/*       h tags end         */
+/*       p tag  start       */ 
+p{
+    color: #CBE4DE;
+    font-size: 20px;
+}
+/*       p tag  end         */ 
+/*       a tag  start       */
+a{
+    color: #93BFCF;
+    text-decoration: none;
+    font-size: 20px;
+    }
+/*       a tag end          */
+/*       class area start   */
+.h1{
+    background-color: #2E4F4F;
+    color: #CBE4DE;
+}
+/*       class area end     */
+/*       ul tag start       */
+ul{
+    color: #CBE4DE;
+    font-size: 20px;
+}
+/*       ul tag end         */
+/*       li tag start       */
+li{
+    color: #93BFCF;
+    font-size: 20px;
+}
+/*       li tag end         */
+button{
+    color: #203239;
+    font-size: 20px;
+}
